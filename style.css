@@ -13,12 +13,13 @@ h2{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
-.study{
+.half-width{
     width: 90%;
     padding-left: 5%;
 }
-.study image{
+.half-width image{
     width: 100%;
     height: auto;  
 }
